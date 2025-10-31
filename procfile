@@ -1,1 +1,1 @@
-worker: python quantitative_engine.supabase.py
+worker: python quantitative_engine_supabase.py
