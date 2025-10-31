@@ -1,0 +1,9 @@
+pmdarima
+yfinance
+pandas-datareader
+TA-Lib
+PyPortfolioOpt
+arch
+numpy==1.26.4
+supabase
+dotenv
